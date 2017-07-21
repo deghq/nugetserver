@@ -4,7 +4,7 @@ Simple private NuGet server.
 ## Checkout
 [release]: etc/NuGetServer.zip
 
-Clone the repo to your local machine. Just git clone https://github.com/cr4papps/nugetserver.git. Or download the zip [file][release].
+Clone the repo to your local machine. Just git clone https://github.com/cr4papps/nugetserver.git. Or download the zip [file][release] and put it in your IIS. And if you do this, please mind that in the examples below you need to configure your server's path in the publish_nuget batch file. Might be http://SOMEIP/nuget or whatever you want.
 
 ## Run
 Open the HWNugetServer.sln to your Visual Studio and run the app. Or again, download the zip [file][release].
