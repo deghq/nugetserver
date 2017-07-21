@@ -2,10 +2,12 @@
 Simple private NuGet server.
 
 ## Checkout
-Clone the repo to your local machine. git clone https://github.com/cr4papps/nugetserver.git
+[release]: etc/NuGetServer.zip
+
+Clone the repo to your local machine. Just git clone https://github.com/cr4papps/nugetserver.git. Or download the zip [file][release].
 
 ## Run
-Open the HWNugetServer.sln to your Visual Studio and run the app.
+Open the HWNugetServer.sln to your Visual Studio and run the app. Or again, download the zip [file][release].
 
 ## Examples
 Visit the examples folder for a test library pushed to this server.
