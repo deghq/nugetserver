@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWNugetServer", "HWNugetServer\HWNugetServer.csproj", "{E4A699AA-09B7-429B-8331-0717DA7E7725}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetServer", "NugetServer\NugetServer.csproj", "{E4A699AA-09B7-429B-8331-0717DA7E7725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
